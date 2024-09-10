@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming in general
 - 🌱 I’m a professional in web development and project management.
 - 💞️ I love doing impactful projects.
+- 🧵 Not many contributions? My work emails took it 
 - 📫 How to reach me: shalaw.fatah@gmail.com
 
 <!---
