@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shalawfatah
 - 👀 I’m interested in programming in general
-- 🌱 I’m currently learning full-stack development
-- 💞️ I’m looking to collaborate on Javascript projects
+- 🌱 I’m a professional in web development and project management.
+- 💞️ I love doing impactful projects.
 - 📫 How to reach me: shalaw.fatah@gmail.com
 
 <!---
